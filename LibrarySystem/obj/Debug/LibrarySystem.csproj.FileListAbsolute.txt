@@ -1,0 +1,5 @@
+D:\Practice\Assignment_6-8-15\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\Practice\Assignment_6-8-15\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\Practice\Assignment_6-8-15\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\Practice\Assignment_6-8-15\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\Practice\Assignment_6-8-15\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
